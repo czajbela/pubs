@@ -8,7 +8,7 @@ function areaQuadrado (lado){
 console.log(areaQuadrado (6));
 let valor= prompt ('valor');
 document.write(valor);
-=parseInt(prompt('valor'));
+parseInt(prompt('valor'));
 let media= function media(num1,num2,num3){
 return num1+num2+num3/3;
 }
