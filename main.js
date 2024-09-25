@@ -12,4 +12,4 @@ parseInt(prompt('valor'));
 let media= function media(num1,num2,num3){
 return num1+num2+num3/3;
 }
-console.log(media (7,6,8));
+console.log(media (1,2,3));
