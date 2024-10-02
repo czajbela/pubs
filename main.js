@@ -27,7 +27,7 @@ for (let i=0; i<estados.length;i++) {
 
 let idade=18;
 if(if>17){
-console;log('Onde e hoje')
+console;log('Onde e hoje');
 }
 else{
 console.log('nao tem Hoje');
