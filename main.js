@@ -12,4 +12,4 @@
 // return num1+num2+num3/3;
 // }
 // console.log(media (1,2,3));
-let estado=['PR','RJ','SP','SC','RS','ES','MG','GO','DF','MS','MT','BA','RO','AC','AM','PA','AL','MA','RO','SE','RN','PI','CE','AP','RR','TO','PB']
+let estados= ['PR','RJ','SP','SC','RS','ES','MG','GO','DF','MS','MT','BA','RO','AC','AM','PA','AL','MA','RO','SE','RN','PI','CE','AP','RR','TO','PB']
