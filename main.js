@@ -13,3 +13,8 @@
 // }
 // console.log(media (1,2,3));
 let estados= ['PR','RJ','SP','SC','RS','ES','MG','GO','DF','MS','MT','BA','RO','AC','AM','PA','AL','MA','RO','SE','RN','PI','CE','AP','RR','TO','PB']
+let i=0;
+while(i<5){
+    console.log(i);
+    i=i+1;
+}
