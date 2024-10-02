@@ -16,5 +16,6 @@ let estados= ['PR','RJ','SP','SC','RS','ES','MG','GO','DF','MS','MT','BA','RO','
 let i=0;
 while(i<5){
     console.log(i);
+    console.log(estados[i]);
     i=i+1;
 }
