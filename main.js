@@ -19,7 +19,7 @@ while(i<estados.length){
     console.log(estados[i]);
     i=i+1;
 }
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
-    
+for (let i=0; i < estados.length; i++) {
+    console.log(i);
+    console.log(estados[i]);=estados[i];
 }
