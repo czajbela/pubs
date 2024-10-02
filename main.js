@@ -14,8 +14,12 @@
 // console.log(media (1,2,3));
 let estados= ['PR','RJ','SP','SC','RS','ES','MG','GO','DF','MS','MT','BA','RO','AC','AM','PA','AL','MA','RO','SE','RN','PI','CE','AP','RR','TO','PB']
 let i=0;
-while(i<5){
+while(i<estados.length){
     console.log(i);
     console.log(estados[i]);
     i=i+1;
+}
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
 }
