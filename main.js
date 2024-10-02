@@ -30,6 +30,6 @@ if(if>17){
 console;log('Onde e hoje')
 }
 else{
-console.log('nao tem Hoje :(')
+console.log('nao tem Hoje');
 }
 
