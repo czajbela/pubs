@@ -13,17 +13,23 @@
 // }
 // console.log(media (1,2,3));
 let estados= ['PR','RJ','SP','SC','RS','ES','MG','GO','DF','MS','MT','BA','RO','AC','AM','PA','AL','MA','RO','SE','RN','PI','CE','AP','RR','TO','PB']
-let i=0;
-while(i<estados.length){
-    console.log(i);
-    console.log(estados[i]);
-    i=i+1;
-}
-
+// let i=0;
+// while(i<estados.length){
+//     console.log(i);
+//     console.log(estados[i]);
+//     i=i+1;
+// }
 
 for (let i=0; i<estados.length;i++) {
     console.log(i);
     console.log(estados[i]);
 }
 
+let idade=18;
+if(if>17){
+console;log('Onde e hoje')
+}
+else{
+console.log('nao tem Hoje :(')
+}
 
