@@ -27,7 +27,7 @@ for (let i=0; i<estados.length;i++) {
 
 let idade=18;
 if(idade>17){
-console;log('Pode dirigir');
+console.log('Pode dirigir');
 }
 else{
 console.log('nao pode dirigi');
