@@ -21,8 +21,9 @@ while(i<estados.length){
 }
 
 
-for (let i=0; i < estados.length; i++) {
+for (let i=0; i<estados.length;i++) {
     console.log(i);
-    console.log(estados[i]);}
+    console.log(estados[i]);
+}
 
 
